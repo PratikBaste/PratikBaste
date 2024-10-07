@@ -1,5 +1,5 @@
 # Pratik Baste
-All my Projects are present in this Repository.
+My first Projects is present in this Repository.
 
 This repository contains several Python projects, each designed to demonstrate different aspects of programming. Below is a brief description of each project included:
 
